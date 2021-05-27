@@ -1,9 +1,9 @@
-# Mindfullness - Become a better you
+# Mindfulness - Become a better you
 
 Welcome! [View live Project here]()
 
 # About this Project
-I have chosen to base my first project on mindfullness. This is something that is very important to me personally and I feel it should be a big part of your daily life no matter who you are. Everyone has their struggles in this world! I am creating this site to make people aware that there are many things you can do to that will improve the state of your mind and body as well as your general well being. The stress of a busy life can really takes its toll. I have learned a lot through my own personal journey and would like to share some of what has helped me through the tough times.
+I have chosen to base my first project on mindfulness. This is something that is very important to me personally and I feel it should be a big part of your daily life no matter who you are. Everyone has their struggles in this world! I am creating this site to make people aware that there are many things you can do to that will improve the state of your mind and body as well as your general well being. The stress of a busy life can really takes its toll. I have learned a lot through my own personal journey and would like to share some of what has helped me through the tough times.
 
 On this site I will concetrate on four aspects of wellbeing that I deem to be essential to a healthy balanced mindset. These will include Yoga, Meditation, Self Care and Exercise.
 
@@ -29,11 +29,11 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
         <ol>
             <li>As a first time user I want to immediatly understand the goal of the site and what it has to offer.</li>
             <li>As a first time user I want to instinctively know how to navigate the site and find the content I am looking for</li>
-            <li>As a first time user I also want to feel as ease when using the site as it is a mindfullness page after all</li>
+            <li>As a first time user I also want to feel as ease when using the site as it is a mindfulness page after all</li>
         </ol>
     <li>Returning User Goals</li>
         <ol>
-            <li>As a returning user I want to find different places with similar content which will help me on my mindfullness journey</li>
+            <li>As a returning user I want to find different places with similar content which will help me on my mindfulness journey</li>
             <li>As a returning user I want to easily be able to contact somebody to ask questions or request more information</li>
             <li>As a returning user I want see social media links for more content and updates that may have been made to the site</li>
 </ul>
