@@ -81,6 +81,7 @@ additional screenshotscode
 * [Google Fonts](https://fonts.google.com/specimen/Raleway)
 * [CSS Tricks](https://css-tricks.com/)
 * [Unsplash](https://unsplash.com/)
+* [RGB Color Picker](https://rgbacolorpicker.com/)
 picture sites
 video sites
 minfullness sites 
