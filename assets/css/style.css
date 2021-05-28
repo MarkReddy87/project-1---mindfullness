@@ -101,22 +101,55 @@ h1, h2 {
     position: absolute;
 }
 
-/* four main setions yoga, meditation, self care and exercise */
+/* four main setions yoga, meditation, self care and exercise + images */
 
 #yoga, #meditation, #selfcare, #exercise {
     height: 400px;
+    margin-bottom: 70px;
 }
 
 #list-left {
-    padding: 10px;
+    padding-top: 20px;
     width: 49%;
     float: left;
-    background-color: lavender;
 }
 
 #pic-right {
     padding-top: 20px;
     width: 49%;
-    float: right;
-    background-color: #9C539B;   
+    float: right;   
+}
+
+ul li {
+    margin-left: 20px;
+}
+
+#yoga-image {
+    height: 400px;
+    width: 100%;
+    background: url('../images/yoga.PNG') center center;
+    }
+
+#meditation-image {
+    height: 400px;
+    width: 100%;
+    background: url('../images/meditation.PNG') center center;
+    }
+
+#selfcare-image {
+    height: 400px;
+    width: 100%;
+    background: url('../images/selfcare.PNG') center center;
+}
+
+#exercise-image {
+    height: 400px;
+    width: 100%;
+    background: url('../images/exercise.PNG') center center;
+}
+
+hr {
+    border-top: blue;
+    width: 100%;
+    margin: 3px 0;
 }
