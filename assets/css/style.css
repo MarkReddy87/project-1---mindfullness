@@ -164,3 +164,7 @@ ul li {
     float: right;
     font-size: 150%;
 }
+
+footer {
+    margin-top: 20px;
+}
