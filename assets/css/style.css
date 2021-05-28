@@ -132,24 +132,35 @@ ul li {
 
 #meditation-image {
     height: 400px;
-    width: 100%;
     background: url('../images/meditation.PNG') center center;
     }
 
 #selfcare-image {
     height: 400px;
-    width: 100%;
     background: url('../images/selfcare.PNG') center center;
 }
 
 #exercise-image {
     height: 400px;
-    width: 100%;
     background: url('../images/exercise.PNG') center center;
 }
 
-hr {
-    border-top: blue;
-    width: 100%;
-    margin: 3px 0;
+/* links below main content */
+
+#bottom-feedback a {
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: left;
+    margin-left: 20px;
+    float: left;
+    font-size: 150%;
+}
+
+#bottom-gallery a {
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: right;
+    margin-right: 20px;
+    float: right;
+    font-size: 150%;
 }
