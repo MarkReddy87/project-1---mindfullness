@@ -44,7 +44,7 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
         <ol>
             <li>I chose a lot of pastel colors that are easy on the eye and calming to the user</li>
             <li>I used a number of color palette sites to broaden my options all of wich are listed below</li>
-            <li>With the font it was very important to me that it looked clean and subtle at the same time. Even with so many to choose from I feel I made the right choice with Gerogia and I used the classic Sans Serif as the fallback.</li>
+            <li>With the font it was very important to me that it looked clean and subtle at the same time. Even with so many to choose from on Google Fonts I feel I made the right choice with Raleway and I used the classic Sans Serif as the fallback.</li>
         </ol>
     <li>Layout / Content</li>
         <ol>
@@ -78,6 +78,7 @@ additional screenshotscode
 * [Font Awesome](https://fontawesome.com)
 * [Gitpod](https://gitpod.io)
 * [GitHub](https://github.com/)
+* [Google Fonts](https://fonts.google.com/specimen/Raleway)
 picture sites
 video sites
 minfullness sites 
