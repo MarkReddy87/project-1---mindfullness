@@ -8,16 +8,17 @@
 
 body {
     font-family: 'Lato', sans-serif;
-    background-color: #DCB0FF;
-    color: #61757e;
+    color: #3F4756;
 }
 
 h1, h2 {
     font-family: 'Raleway', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
-    color: #525f64;
+    color: #3F4756;
 }
+
+/* logo and nav elements */
 
 #logo {
     float: left;
@@ -45,7 +46,7 @@ h1, h2 {
 }
 
 .border-style {
-    border: solid 1px white;
+    border: solid 1px #3F4756;
     transition: border-width 0.3s linear;
     padding: 3px;
 }
@@ -53,3 +54,31 @@ h1, h2 {
 .border-style:hover {
     border-width: 3px;
 }
+
+/* hero image */
+
+#hero-out{
+    height: 550px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 550px;
+    width: 100%;
+    background: url('../images/hero-image.PNG') no-repeat;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
