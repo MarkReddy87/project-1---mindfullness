@@ -123,6 +123,11 @@ div > h1 {
     display: block;
 }
 
+div#list-left ul li {
+    list-style-image: linear-gradient(to left bottom, rgba(254, 133, 58, 1), rgba(206, 61, 184, 0.89));
+    font-size: 120%;
+}
+
 #pic-right {
     padding-top: 20px;
     width: 49%;
