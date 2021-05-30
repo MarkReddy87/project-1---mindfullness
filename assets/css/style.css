@@ -198,3 +198,42 @@ footer {
 .block-form {
     display: block;
 }
+
+form {
+    background-color: rgba(145, 56, 214, 0.5);
+    width: 500px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+legend {
+    font-size: x-large;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 10px;
+}
+
+input[type=submit], input[type=reset] {
+    color: #3F4756;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+fieldset {
+    margin-top: 25px;
+}
+
+input[type=text], input[type=email], input[type=radio], input[list=exercise-types], input[list=important-list] {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+p, label, select, textarea {
+    margin: 10px;
+    border-radius: 5px;
+}
+
