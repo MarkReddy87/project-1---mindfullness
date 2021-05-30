@@ -4,12 +4,127 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Feedback Form</title>
+    <meta name="description" content="Mindfulness, how to become a better you">
+    <meta name="keywords" content="Mindfulness, become a better you, Ireland, Dublin">
+    <title>Home</title>
 
     <link rel="stylesheet" href="assets/css/style.css">
-    
+
 </head>
+
 <body>
-    <h1>Hello</h1>
+    <header>
+        <a href="index.html">
+            <h1 id="logo">Mindfulness - Become a better you</h1>
+        </a>
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="form.html" class="border-style" aria-label="Fill out a feedback form to get your own personalised mindfulness plan">Need Help!</a>
+                </li>
+                <li>
+                    <a href="gallery.html" class="border-style" aria-label="Go to the gallery page with more relevant content">Gallery</a>
+                </li>
+                <li>
+                    <a href="index.html" class="border-style" aria-label="Go to the Home page">Home</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="fb-form">
+        <form action="https://formdump.codeinstitute.net" method="post">
+            <fieldset>
+                <legend>Your Details</legend>
+                <br>
+                <div>
+                    <label for="name-field" class="block-form">Name</label>
+                    <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+                </div>
+                <div>
+                    <label for="email-field" class="block-form">Email</label>
+                    <input id="email-field" type="email" name="email" placeholder="Your email" required>
+                </div>
+
+                <label for="age" class="block-form">Age</label>
+                <select name="age" id="age" required>
+                    <option value="under-30">Under 30</option>
+                    <option value="30s">30 - 39</option>
+                    <option value="40s">40 - 49</option>
+                    <option value="50s">50 - 59</option>
+                    <option value="60+">60+</option>
+                </select>
+            </fieldset>
+            <fieldset>
+                <legend>Practice</legend>
+                <br>
+                <p>How many days a week do you parctice mindfulness?</p>
+                <input id="none" name="mf-days" value="none" type="radio" required>
+                <label for="none">None</label>
+                <input id="1-2" name="mf-days" value="1-2" type="radio" required>
+                <label for="1-2">1 - 2</label>
+                <input id="3-4" name="mf-days" value="3-4" type="radio" required>
+                <label for="3-4">3 - 4</label>
+                <input id="5-6" name="mf-days" value="5-6" type="radio" required>
+                <label for="5-6">5 - 6</label>
+                <input id="daily" name="mf-days" value="daily" type="radio" required>
+                <label for="daily">Daily</label>
+                <div>
+                    <label for="pref-exercise" class="block-form">What is your preferred exercise type?</label>
+                    <input id="pref-exercise" list="exercise-types" name="pref-exercise" required>
+                    <datalist id="exercise-types">
+                        <option value="Sports">
+                        <option value="Walking/Hiking">
+                        <option value="Gym">
+                        <option value="Other">
+                    </datalist>
+                </div>
+                <label for="other" class="block-form">If other please specify</label>
+                <br>
+                <textarea name="other" id="other" cols="50" rows="5"></textarea>
+                <div>
+                    <label for="most-important" class="block-form">Which is most important to you?</label>
+                    <input id="most-important" list="important-list" name="most-important" required>
+                    <datalist id="important-list">
+                        <option value="Yoga">
+                        <option value="Meditation">
+                        <option value="Self Care">
+                        <option value="Exercise">
+                    </datalist>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Goals</legend>
+                <br>
+                <label for="goals" class="block-form">Share your mindfulness goals here</label>
+                <br>
+                <textarea name="goals" id="goals" cols="50" rows="10"></textarea>
+            </fieldset>
+            <input type="submit" value="Receive Personalised Feedback" class="block-form">
+            <input type="reset" value="Reset Form">
+        </form>
+    <footer>
+        <ul class="social-links">
+            <li>
+                <a href="https://www.facebook.com/" target="_blank" rel="noopener" 
+                aria-label="Visit our Facebook page (opens in a new tab)"><i class="fab fa-facebook-square"></i></a>
+            </li>
+            <li>
+                <a href="https://twitter.com/?lang=en" target="_blank" rel="noopener" 
+                aria-label="Visit our Twitter page (opens in a new tab)"><i class="fab fa-twitter-square"></i></a>
+            </li>
+            <li>
+                <a href="https://www.instagram.com/" target="_blank" rel="noopener" 
+                aria-label="Visit our Instgram page (opens in a new tab)"><i class="fab fa-instagram"></i></a>
+            </li>
+            <li>
+                <a href="https://www.youtube.com/" target="_blank" rel="noopener" 
+                aria-label="Visit our YouTube channel (opens in a new tab)"><i class="fab fa-youtube-square"></i></a>
+            </li>
+        </ul>
+    </footer>
+
+    <!-- font awsome script-->
+    <script src="https://kit.fontawesome.com/16250c17fc.js" crossorigin="anonymous"></script>
 </body>
 </html>

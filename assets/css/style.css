@@ -153,7 +153,8 @@ ul li {
     text-align: left;
     margin-left: 20px;
     float: left;
-    font-size: 150%;
+    font-size: 160%;
+    color: inherit;
 }
 
 #bottom-gallery a {
@@ -162,7 +163,8 @@ ul li {
     text-align: right;
     margin-right: 20px;
     float: right;
-    font-size: 150%;
+    font-size: 160%;
+    color: inherit;
 }
 
 /* footer */
@@ -184,5 +186,15 @@ footer {
     color: #3F4756;
     font-size: 300%;
     padding: 4%;
-    margin: 2%;
+    margin: 1%;
+}
+
+/* form page elements */
+
+#fb-form {
+    clear:both;
+}
+
+.block-form {
+    display: block;
 }
