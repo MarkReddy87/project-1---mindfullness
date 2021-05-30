@@ -49,6 +49,7 @@ h1, h2 {
     border: solid 1px #3F4756;
     transition: border-width 0.3s linear;
     padding: 3px;
+    border-radius: 5px;
 }
 
 .border-style:hover {
@@ -99,6 +100,7 @@ h1, h2 {
     bottom: 150px;
     right: 300px;
     position: absolute;
+    border-radius: 5px;
 }
 
 /* four main setions yoga, meditation, self care and exercise + images */
@@ -106,18 +108,26 @@ h1, h2 {
 #yoga, #meditation, #selfcare, #exercise {
     height: 400px;
     margin-bottom: 70px;
+    margin-left: 20px;
+}
+
+div > h1 {
+    text-decoration: underline #3F4756;
 }
 
 #list-left {
     padding-top: 20px;
     width: 49%;
     float: left;
+    display: block;
 }
 
 #pic-right {
     padding-top: 20px;
     width: 49%;
-    float: right;   
+    float: right; 
+    display: block;
+    margin-right: 20px;  
 }
 
 ul li {
@@ -126,23 +136,26 @@ ul li {
 
 #yoga-image {
     height: 400px;
-    width: 100%;
     background: url('../images/yoga.PNG') center center;
+    border-radius: 5px;
     }
 
 #meditation-image {
     height: 400px;
     background: url('../images/meditation.PNG') center center;
+    border-radius: 5px;
     }
 
 #selfcare-image {
     height: 400px;
     background: url('../images/selfcare.PNG') center center;
+    border-radius: 5px;
 }
 
 #exercise-image {
     height: 400px;
     background: url('../images/exercise.PNG') center center;
+    border-radius: 5px;
 }
 
 /* links below main content */
@@ -238,6 +251,8 @@ select, input[type=text], input[type=email], input[type=radio], input[list=exerc
 #head {
     text-align: center;
     font-size: x-large;
+    text-decoration: underline #3F4756;
+
 }
 
 p, label, textarea {
