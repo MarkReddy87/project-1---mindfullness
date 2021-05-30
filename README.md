@@ -83,7 +83,8 @@ additional screenshotscode
 * [Unsplash](https://unsplash.com/)
 * [RGB Color Picker](https://rgbacolorpicker.com/)
 * [Stack Overflow](https://stackoverflow.com/)
-video sites
+* [Google Maps](https://www.google.ie/maps)
+* [Youtube](https://www.youtube.com/)
 minfullness sites 
 
 ## Languages Used

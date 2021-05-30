@@ -245,7 +245,7 @@ p, label, textarea {
     border-radius: 5px;
 }
 
-#maps {
+#wrapper {
     height: 300px;
     width: 300px;
     border: 1px solid #3F4756;
