@@ -82,7 +82,7 @@ additional screenshotscode
 * [CSS Tricks](https://css-tricks.com/)
 * [Unsplash](https://unsplash.com/)
 * [RGB Color Picker](https://rgbacolorpicker.com/)
-picture sites
+* [Stack Overflow](https://stackoverflow.com/)
 video sites
 minfullness sites 
 

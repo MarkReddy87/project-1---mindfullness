@@ -191,7 +191,7 @@ footer {
 
 /* form page elements */
 
-#fb-form {
+#form-gallery {
     clear:both;
 }
 
@@ -211,7 +211,8 @@ legend {
     font-size: x-large;
     font-weight: 500;
     text-transform: uppercase;
-    margin: 10px;
+    margin: 5px;
+    text-decoration: underline #3F4756;
 }
 
 input[type=submit], input[type=reset] {
@@ -226,14 +227,30 @@ fieldset {
     margin-top: 25px;
 }
 
-input[type=text], input[type=email], input[type=radio], input[list=exercise-types], input[list=important-list] {
+select, input[type=text], input[type=email], input[type=radio], input[list=exercise-types], input[list=important-list] {
     margin: 10px;
     padding: 5px;
     border-radius: 5px;
 }
 
-p, label, select, textarea {
+/* gallery page */
+
+#head {
+    text-align: center;
+    font-size: x-large;
+}
+
+p, label, textarea {
     margin: 10px;
     border-radius: 5px;
 }
 
+#maps {
+    height: 300px;
+    width: 300px;
+    border: 1px solid #3F4756;
+    border-radius: 5px;
+    display: inline;
+    margin-left: 20px;
+    margin-top: 20px;
+}
