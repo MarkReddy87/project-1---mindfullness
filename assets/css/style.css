@@ -93,7 +93,7 @@ h1, h2 {
 
 #intro-text {
     width: 50%;
-    height: 30%;
+    height: 250px;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -302,6 +302,11 @@ p, label, textarea {
         width: 100%;
         float: left;
         padding: 10px;
+    }
 
+    #bottom-links {
+        width: 70%;
+        height: 10px;
+        margin: 0 auto;
     }
 }
