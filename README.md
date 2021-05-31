@@ -66,7 +66,7 @@ additional screenshotscode
 
 # Features
 <ul>
-    <li>Responsive for all viewport sizes</li>
+    <li>nav bar - which options is has</li>
     <li>Interactive elements used on all pages</li>
 </ul>
 
