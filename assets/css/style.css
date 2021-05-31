@@ -360,14 +360,16 @@ textarea {
     #intro-text {
         left: 0;
         top: 0;
-        height: 500px;
+        height: 400px;
+        font-size: small;
+        margin: 0 auto;
     }
 
     .list-left {
         width: 100%;
         float: left;
         padding-top: 80px;
-        height: 780px;
+        height: 1000px;
         margin: 0 auto;
     }
 
@@ -381,13 +383,14 @@ textarea {
 
     form {
         background-color: rgba(145, 56, 214, 0.5);
-        width: 340px;
+        width: 280px;
         margin: 0 auto;
         border-radius: 20px;
     }
 
     textarea {
         font-size: x-small;
+        margin-right: 10px;
     }
 
     legend {
@@ -395,5 +398,15 @@ textarea {
         font-weight: 400;
         text-transform: uppercase;
         text-decoration: underline #3F4756;
+    }
+
+    .wrapper {
+        height: 300px;
+        width: 280px;
+        border: 1px solid #3F4756;
+        border-radius: 5px;
+        display: inline;
+        margin-top: 20px;
+        margin-left: 18px;
     }
 }
