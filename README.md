@@ -3,20 +3,20 @@
 Welcome! [View live Project here]()
 
 # About this Project
-I have chosen to base my first project on mindfulness. This is something that is very important to me personally and I feel it should be a big part of your daily life no matter who you are. Everyone has their struggles in this world! I am creating this site to make people aware that there are many things you can do to that will improve the state of your mind and body as well as your general well being. The stress of a busy life can really takes its toll. I have learned a lot through my own personal journey and would like to share some of what has helped me through the tough times.
+<p>I have chosen to base my first project on mindfulness. This is something that is very important to me personally and I feel it should be a big part of your daily life no matter who you are. Everyone has their struggles in this world! I am creating this site to make people aware that there are many things you can do to that will improve the state of your mind and body as well as your general well being. The stress of a busy life can really takes its toll. I have learned a lot through my own personal journey and would like to share some of what has helped me through the tough times.</p>
 
-On this site I will concetrate on four aspects of wellbeing that I deem to be essential to a healthy balanced mindset. These will include Yoga, Meditation, Self Care and Exercise.
+<p>On this site I will concetrate on four aspects of wellbeing that I deem to be essential to a healthy balanced mindset. These will include Yoga, Meditation, Self Care and Exercise.</p>
 
-The home page will give an overview of each topic and a more detailed list of specific things to focus on. 
+<p>The home page will give an overview of each topic and a more detailed list of specific things to focus on.</p>
 
 Screenshot of home page
 
 
-The second page will consist of a customer feedback form which will collect specific user entered information. From this data a personalised minfullness plan can be created to meet their needs.
+<p>The second page will consist of a customer feedback form which will collect specific user entered information. From this data a personalised minfullness plan can be created to meet their needs.</p>
 
 Screenshot of form page
 
-The third page will be a gallery with catagorised videos and pictures from external sources relating to the topics covered on the home page to give people an insight to what is available on the web.
+<p>The third page will be a gallery with catagorised videos and pictures from external sources relating to the topics covered on the home page to give people an insight to what is available on the web.</p>
 
 Screenshot of gallery page
 
@@ -92,6 +92,10 @@ additional screenshotscode
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 
 # Testing
+* [W3C](https://validator.w3.org/)
+
+<p>I used the W3C code validator to test each of my pages and my stylesheet. I got a lot of errors the first time around. I used many unnecessary line breaks which were replaced with padding, I also had to replace ID selectors which I used multiple times with class selectors and I was missing some closing tags for section elements. Though it was quite jarring at first seeing the amount of mistakes I made, the validator clearly outlined where I went wrong and allowed me to pinpoint the missing / broken code quickly and suggest solutions to the problems.</p>
+
 
 # Deployment
 
