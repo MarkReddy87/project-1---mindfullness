@@ -1,8 +1,8 @@
 # Mindfulness - Become a better you
 
-Welcome! [View live Project here]()
+Welcome! [View live Project here](https://markreddy87.github.io/project-1---mindfullness/)
 
-# About this Project
+# 1. Purpose of this Project
 <p>I have chosen to base my first project on mindfulness. This is something that is very important to me personally and I feel it should be a big part of your daily life no matter who you are. Everyone has their struggles in this world! I am creating this site to make people aware that there are many things you can do to that will improve the state of your mind and body as well as your general well being. The stress of a busy life can really takes its toll. I have learned a lot through my own personal journey and would like to share some of what has helped me through the tough times.</p>
 
 <p>On this site I will concetrate on four aspects of wellbeing that I deem to be essential to a healthy balanced mindset. These will include Yoga, Meditation, Self Care and Exercise.</p>
@@ -21,7 +21,7 @@ Screenshot of form page
 Screenshot of gallery page
 
 
-# User Experience (UX)
+# 2. User Stories
 I wanted to create a peaceful feel to the pages using a consistant soft color scheme paired with images, text and flow to match. 
 
 <ul>
@@ -38,7 +38,15 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
             <li>As a returning user I want see social media links for more content and updates that may have been made to the site</li>
 </ul>
 
-# Design
+# 3. Features
+<ul>
+    <li>nav bar - which options is has</li>
+    <li>Interactive elements used on all pages</li>
+</ul>
+
+# 4. Future Features
+
+# 5. Typography and Color Scheme
 <ul>
     <li>Color Scheme / Font</li>
         <ol>
@@ -59,18 +67,11 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
         </ol>
 </ul>
 
-# Usage
+# 6. Wireframes
+* [Balsamiq](https://balsamiq.com/wireframes/)
+* [Link to project Wireframes](https://balsamiq.cloud/s8tizrb/p2l8zvx)
 
-examples of how a project can be used - form page info
-additional screenshotscode
-
-# Features
-<ul>
-    <li>nav bar - which options is has</li>
-    <li>Interactive elements used on all pages</li>
-</ul>
-
-# Technologies Used
+# 7. Technologies Used
 
 ## Frameworks, Programs and Other Websites Used
 * [Wireframes](https://balsamiq.cloud)
@@ -80,29 +81,44 @@ additional screenshotscode
 * [GitHub](https://github.com/)
 * [Google Fonts](https://fonts.google.com/specimen/Raleway)
 * [CSS Tricks](https://css-tricks.com/)
-* [Unsplash](https://unsplash.com/)
 * [RGB Color Picker](https://rgbacolorpicker.com/)
 * [Stack Overflow](https://stackoverflow.com/)
 * [Google Maps](https://www.google.ie/maps)
 * [Youtube](https://www.youtube.com/)
-* [VeryWellMind](https://www.verywellmind.com/)
+* [Google](https://www.google.com/)
+* [W3 Schools](https://www.w3schools.com/)
+* [Code Institute](https://codeinstitute.net/)
 
 ## Languages Used
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 
-# Testing
-* [W3C](https://validator.w3.org/)
+# 8. Testing
+[W3C](https://validator.w3.org/)
 
 <p>I used the W3C code validator to test each of my pages and my stylesheet. I got a lot of errors the first time around. I used many unnecessary line breaks which were replaced with padding, I also had to replace ID selectors which I used multiple times with class selectors and I was missing some closing tags for section elements. Though it was quite jarring at first seeing the amount of mistakes I made, the validator clearly outlined where I went wrong and allowed me to pinpoint the missing / broken code quickly and suggest solutions to the problems.</p>
 
+## Code Validation
+## Test Cases (user story with screenshot)
+## Fixed Bugs
+## Supported Screens and Browsers
 
-# Deployment
-
+# 9. Deployment
 ## GitHub Pages
+## GitPod
 
-## Making a Local Clone
+# 10. Credits
+<ul>
+<li>Photo by Luca Bravo on Unsplash</li>
+<li>Photo by Carl Newton on Unsplash</li>
+<li>Photo by Bruno Nascimento on Unsplash</li>
+<li>Photo by Conscious Design on Unsplash</li>
+<li>Photo by Lisa Moyneur on Unsplash</li>
+</ul>
 
-# Contact
+* [Unsplash](https://unsplash.com/) - This site was used to download all the images seen across the sight. All the photographers are listed above.
+* [VeryWellMind](https://www.verywellmind.com/) - I used this sight to gain a better insight on the main topics for the home page.
+
+# 11. Contact
 Mark Reddy: markreddy87@gmail.com
-Project Link: 
+[Project Link](https://markreddy87.github.io/project-1---mindfullness/)
