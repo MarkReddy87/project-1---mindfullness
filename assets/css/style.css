@@ -269,7 +269,7 @@ select, input[type=text], input[type=email], input[type=radio], input[list=exerc
 
 /* gallery page */
 
-#head {
+.head {
     text-align: center;
     font-size: x-large;
     text-decoration: underline #3F4756;
@@ -281,7 +281,7 @@ p, label, textarea {
     border-radius: 5px;
 }
 
-#wrapper {
+.wrapper {
     height: 300px;
     width: 300px;
     border: 1px solid #3F4756;
