@@ -228,7 +228,7 @@ footer {
     margin: 1%;
 }
 
-/* form page elements */
+/* form page elements and gallery page */
 
 .form-gallery {
     clear: both;
@@ -278,8 +278,6 @@ input[list=important-list] {
     border-radius: 5px;
 }
 
-/* gallery page */
-
 .head {
     text-align: center;
     font-size: x-large;
@@ -300,8 +298,8 @@ textarea {
     border: 1px solid #3F4756;
     border-radius: 5px;
     display: inline;
-    margin-left: 20px;
     margin-top: 20px;
+    margin-left: 27px;
 }
 
 /* Submit page */
