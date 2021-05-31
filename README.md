@@ -7,7 +7,7 @@ Welcome! [View live Project here](https://markreddy87.github.io/project-1---mind
 
 <p>On this site I will concetrate on four aspects of wellbeing that I deem to be essential to a healthy balanced mindset. These will include Yoga, Meditation, Self Care and Exercise.</p>
 
-<p>The home page will give an overview of each topic and a more detailed list of specific things to focus on.</p>
+<p>The home page will give an overview of each topic and more detailed information about how you can begin to introduce them into you life.</p>
 
 Screenshot of home page
 
@@ -40,9 +40,49 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 
 # 3. Features
 <ul>
-    <li>nav bar - which options is has</li>
-    <li>Interactive elements used on all pages</li>
+    <lh><b>Nav bar</b> - The nav bar on the home page contains seven links altogether. All being simgle words and clickable links. The words include "Mindfulness" "Yoga" "Meditation" "Self Care" "Exercise" "Gallery" "Need Help!".</lh>
+    <li>"Mindfulness" - This is linked to index.html, located in the top right corner and is consistant across all pages</li>
+    <li>"Yoga" - This is linked to the #yoga section and when clicked will bring the yoga section content to the top of the page.</li>
+    <li>"Meditation" - This is linked to the #meditation section and when clicked will bring the meditation section content to the top of the page.</li>
+    <li>"Self Care" - This is linked to the #self-care section and when clicked will bring the self care section content to the top of the page.</li>
+    <li>"Exercise" - This is linked to the #exercise section and when clicked will bring the exercise section content to the top of the page.</li>
+    <li>"Gallery" - This is linked to gallery.html which contains all the hand picked external content. This is also consistant on all pages.</li>
+    <li>"Need Help!" - This is linked to form.html which contains a short form a user can fill out and submit. This is also consistant on all pages.</li>
+    <li>Also all the links except "mindfulness" have a interactive border when hovered over which brings a nice asthetic to the nav bar. This is also consistant across all pages</li>
 </ul>
+
+<ul>
+    <lh><b>Footer</b> - The footer contains four clickable icons linked to the top social media outlets.</lh>
+    <li>Facebook icon - This is linked to facebook.com and the icon itself was taken from fontawsome.com and the script for the is imported outside the footer element.</li>
+    <li>Twitter icon - This is linked to twitter.com and the icon itself was taken from fontawsome.com and the script for the is imported outside the footer element.</li>
+    <li>Instgram icon - This is linked to instagram.com and the icon itself was taken from fontawsome.com and the script for the is imported outside the footer element.</li>
+    <li>Youtube icon - This is linked to youtube.com and the icon itself was taken from fontawsome.com and the script for the is imported outside the footer element.</li>
+</ul>
+
+<ul>
+    <lh><b>index.html body</b> - The body of index.html contains the core content of the website and is split into four sections each accopanied with a relevant image</lh>
+    <li>Each section is structured similarly with three stlyed li elements in the left div and the associated image alongside in the right div</li>
+    <li>The three bullet points contain a brief overview of each topic, what you might need to get you started, where you can find resources and how it can benefit your wellbeing.</li>
+    <li>The associated images capture the mood of each topic without taking focus away form the text content</li>
+</ul>
+
+<ul>
+    <lh><b>form.html body</b> - The body of form.html contains a short form which a user can fill out with the outcome being they will receive a personalised mindfulness action plan.</lh>
+    <li>The form is split into three parts: user details, practice habits and user goals</li>
+    <li>The form elements were chosen to get relevant deatails about the user without being too intrusive which can then be used to create a mindfulness action plan tailored to their needs.</li>
+    <li>The majority of the form elements have the required attribute which will not let you press the submit button without entering values first.</li>
+    <li>The form has two buttons at the bottom the first being a submit button labelled with "receive personalised feedback" which is linked to submit.html and when loaded will display a short message thanking the user for their submission and letting them know thier mindfulness action plan will be with them shortly. The second button is simply a reset button labelled with "reset form" and when pressed will clear the form or all user entered details.</li>
+</ul>
+
+<ul>
+    <lh><b>gallery.html body</b> - </lh>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+</ul>
+
+
 
 # 4. Future Features
 
@@ -57,13 +97,13 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
     <li>Layout / Content</li>
         <ol>
             <li>I wanted to keep it fairly simple with a good flow so the user is not overwhelmed upon entering the site.</li>
-            <li>I wanted to give the elements soft edges and be interactive at the same time and I used specific CSS rules to achieve this</li>
+            <li>I wanted to give the elements soft edges and be interactive at the same time and I used a border radius on all elements to achieve this</li>
             <li>All of the text content was sampled from multiple sources and put into my own words. All the websites I visited for inspiration are listed below</li>
         </ol>
     <li>Imagery</li>
         <ol>
             <li>All the images come from external sources which are credited below</li>
-            <li>Imagery was essentail to this project. I wanted all the images to capture attention but not take away from the text content on the page. I handpicked what I thought would best capture the calming mood I was trying to portray.</li>
+            <li>Imagery was essentail to this project. I wanted all the images to capture attention but not take away from the content on the page. I handpicked what I thought would best portray the calming mood I was trying to portray.</li>
         </ol>
 </ul>
 
