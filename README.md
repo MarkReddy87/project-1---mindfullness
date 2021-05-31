@@ -85,7 +85,7 @@ additional screenshotscode
 * [Stack Overflow](https://stackoverflow.com/)
 * [Google Maps](https://www.google.ie/maps)
 * [Youtube](https://www.youtube.com/)
-minfullness sites 
+* [VeryWellMind](https://www.verywellmind.com/)
 
 ## Languages Used
 * [HTML](https://en.wikipedia.org/wiki/HTML)
