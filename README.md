@@ -71,20 +71,26 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
     <li>The form is split into three parts: user details, practice habits and user goals</li>
     <li>The form elements were chosen to get relevant deatails about the user without being too intrusive which can then be used to create a mindfulness action plan tailored to their needs.</li>
     <li>The majority of the form elements have the required attribute which will not let you press the submit button without entering values first.</li>
-    <li>The form has two buttons at the bottom the first being a submit button labelled with "receive personalised feedback" which is linked to submit.html and when loaded will display a short message thanking the user for their submission and letting them know thier mindfulness action plan will be with them shortly. The second button is simply a reset button labelled with "reset form" and when pressed will clear the form or all user entered details.</li>
+    <li>The form has two buttons at the bottom the first being a submit button labelled with "receive personalised feedback" which is linked to submit.html and when loaded will display a short message thanking the user for their submission and letting them know thier mindfulness action plan will be with them shortly, this page also contains a landscape image which matches the overall mood of the site. The second button is simply a reset button labelled with "reset form" and when pressed will clear the form or all user entered details.</li>
 </ul>
 
 <ul>
-    <lh><b>gallery.html body</b> - </lh>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <lh><b>gallery.html body</b> - The body of the gallery contains four main sections: hiking locations, guided meditation, beginner yoga classes and recipes. Each of these has a centered headings along with four iframes containing relevant content from outside sources.</lh>
+    <li>Hiking Locations - These four County Dublin locations were chosen by myself and I have personally visited them all and know the value they could give a user.</li>
+    <li>Guided Meditation - These four links were sourced from youtube.com and they are a graeat introduction to the idea of meditation for any user who is knew to it.</li>
+    <li>Beginner Yoga Classes - These for links were sourced from youtube.com and will allow the user to get an insight without being overwhelmed with the level of content out there in this area.</li>
+    <li>Recipes - These four links were sourced from youtube.com and were chosen specifically to promote healthy meal ideas to the user.</li>
 </ul>
 
-
-
 # 4. Future Features
+
+<p>There are many features I would like to add to this site in the future to enhance the user experience and bulk up the content including;</p>
+<ul>
+    <li><b>Extended gallery</b> - I would like to continue to add content to the gallery page braodening the users available choices as well as adding further catagories to open up new ways to be mindfull</li>
+    <li><b>Another form page</b> - I would like to add a second form page which would concentrate on gathering suggestions from users for possible content on the site.</li>
+    <li><b>Forum</b> - I would like to a forum / chatroom facility where different users could swap ideas and discuss ways to self improve.</li>
+    <li><b>Newsletter</b> - I would like to add weekly / monthly newsletter facility where all users who have provided details will receive information about upcoming udates to the site and further information on the topic of mindfulness.</li>
+</ul>
 
 # 5. Typography and Color Scheme
 <ul>
@@ -108,6 +114,8 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 </ul>
 
 # 6. Wireframes
+<p></p>
+
 * [Balsamiq](https://balsamiq.com/wireframes/)
 * [Link to project Wireframes](https://balsamiq.cloud/s8tizrb/p2l8zvx)
 
