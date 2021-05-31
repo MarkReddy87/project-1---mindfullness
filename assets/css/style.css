@@ -304,6 +304,23 @@ textarea {
     margin-top: 20px;
 }
 
+/* Submit page */
+
+.submit-message {
+    text-align: center;
+    font-size: x-large;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 5px;
+}
+
 /* Media queries */
 
 @media screen and (max-width: 960px) {
