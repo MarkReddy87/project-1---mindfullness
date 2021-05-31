@@ -97,7 +97,7 @@ h2 {
 
 #intro-text {
     width: 50%;
-    height: 250px;
+    height: 150px;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 3px;
     text-transform: uppercase;
@@ -333,11 +333,67 @@ textarea {
         width: 100%;
         float: left;
         padding: 10px;
+        height: 500px;
+        margin: 0 auto;
     }
 
     #bottom-links {
         width: 70%;
         height: 10px;
         margin: 0 auto;
+    }
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 20px;
+        margin-bottom: 15px;
+    }
+
+    #intro-text {
+        left: 0;
+        height: 320px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    #intro-text {
+        left: 0;
+        top: 0;
+        height: 500px;
+    }
+
+    .list-left {
+        width: 100%;
+        float: left;
+        padding-top: 80px;
+        height: 780px;
+        margin: 0 auto;
+    } 
+    
+    .pic-right {
+        width: 100%;
+        float: left;
+        padding: 10px;
+        height: 400px;
+        margin: 0 auto;
+    }
+
+    form {
+        background-color: rgba(145, 56, 214, 0.5);
+        width: 340px;
+        margin: 0 auto;
+        border-radius: 20px;
+    }
+
+    textarea {
+        font-size: x-small;
+    }
+
+    legend {
+        font-size: large;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-decoration: underline #3F4756;
     }
 }
