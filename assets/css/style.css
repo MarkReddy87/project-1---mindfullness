@@ -92,14 +92,14 @@ h1, h2 {
 }
 
 #intro-text {
-    width: 650px;
-    height: 200px;
+    width: 50%;
+    height: 30%;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 3px;
     text-transform: uppercase;
     padding: 40px;
     background-color: rgba(11, 99, 183, 0.2);
-    bottom: 150px;
+    bottom: 170px;
     right: 300px;
     position: absolute;
     border-radius: 5px;
@@ -177,7 +177,6 @@ ul li {
 #bottom-feedback a {
     text-decoration: none;
     text-transform: uppercase;
-    text-align: left;
     margin-left: 20px;
     float: left;
     font-size: 160%;
@@ -187,7 +186,6 @@ ul li {
 #bottom-gallery a {
     text-decoration: none;
     text-transform: uppercase;
-    text-align: right;
     margin-right: 20px;
     float: right;
     font-size: 160%;
@@ -289,4 +287,21 @@ p, label, textarea {
     display: inline;
     margin-left: 20px;
     margin-top: 20px;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 960px) {
+    #main {
+        width: 70%;
+        height: 3500px;
+        margin: 0 auto;
+    }
+
+    .list-left, .pic-right{
+        width: 100%;
+        float: left;
+        padding: 10px;
+
+    }
 }

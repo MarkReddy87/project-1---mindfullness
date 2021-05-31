@@ -100,7 +100,7 @@ additional screenshotscode
 # Deployment
 
 ## GitHub Pages
-## Forking GitHub Repository
+
 ## Making a Local Clone
 
 # Contact
