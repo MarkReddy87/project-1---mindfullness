@@ -111,30 +111,35 @@ h1, h2 {
     height: 400px;
     margin-bottom: 70px;
     margin-left: 20px;
+    display: block;
 }
 
 div > h1 {
     text-decoration: underline #3F4756;
 }
 
-#list-left {
-    padding-top: 20px;
-    width: 49%;
-    float: left;
-    display: block;
+.list-left {
+    height: 400px;
+    width: 45%;
+    display: inline-block;
+    text-align: justify;
+    margin-right: 10px;
+    margin-top: 20px;
+    vertical-align: top;
+
 }
 
-div#list-left ul li {
+.list-left ul li {
     list-style-image: linear-gradient(to left bottom, rgba(254, 133, 58, 1), rgba(206, 61, 184, 0.89));
     font-size: 120%;
+    padding-left: 5px;
 }
 
-#pic-right {
-    padding-top: 20px;
-    width: 49%;
-    float: right; 
-    display: block;
-    margin-right: 20px;  
+.pic-right {
+    margin-top: 20px;
+    width: 50%; 
+    display: inline-block;
+    margin-right: 10px;  
 }
 
 ul li {
@@ -145,6 +150,7 @@ ul li {
     height: 400px;
     background: url('../images/yoga.PNG') center center;
     border-radius: 5px;
+    display: block;
     }
 
 #meditation-image {
