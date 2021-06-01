@@ -143,6 +143,11 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 
 <p>I used the W3C code validator to test each of my pages and my stylesheet. I got a lot of errors the first time around. I used many unnecessary line breaks which were replaced with padding, I also had to replace ID selectors which I used multiple times with class selectors and I was missing some closing tags for section elements. Though it was quite jarring at first seeing the amount of mistakes I made, the validator clearly outlined where I went wrong and allowed me to pinpoint the missing / broken code quickly and suggest solutions to the problems.</p>
 
+* The first step is to copy the entire content of the files you wish to test.
+* Then head over to the W3C validator site.
+* Click the tab that is lebelled "Validate by direct input"
+* Then paste the contents of your file into the text box and click the check button to see your results.
+
 ## Test Cases (user story with screenshot)
 
 ## Fixed Bugs
@@ -153,14 +158,14 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 </ul> 
 
 ## Supported Screens and Browsers
-
+<p>For this project I used google chrome and google chrome dev tools to simulate a variety of viewport widths. I tested the responsive of the content at a minimum viewport width of 320px for mobile, a mid range of 600px for tablets and a max viewport width for a laptop.</p>
 
 # 9. Deployment
 ## GitHub Pages
-* [GitHub Pages](https://pages.github.com)
+* [GitHub Pages](https://pages.github.com) - This allowed me to take my project live on the web. I was able to generate a sharable link for anyone to visit. This was essential to submitting my work remotly.
 ## GitPod
-* [Gitpod](https://gitpod.io)
-* [GitHub](https://github.com/)
+* [Gitpod](https://gitpod.io) - Gitpod is an open source development platform that allowed me to create, add and edit files which could then be stored in my repository. The built in terminal is a powerful tool that gives you great control over how you track and save any project you create.
+* [GitHub](https://github.com/) - I used GitHub to create a repository to store my project. This allowed me to host my software development, gave me version control options and source code management functionality.
 
 # 10. Credits
 <ul>
