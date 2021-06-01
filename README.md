@@ -7,19 +7,13 @@ Welcome! [View live Project here](https://markreddy87.github.io/project-1---mind
 
 <p>On this site I will concetrate on four aspects of wellbeing that I deem to be essential to a healthy balanced mindset. These will include Yoga, Meditation, Self Care and Exercise.</p>
 
-<p>The home page will give an overview of each topic and more detailed information about how you can begin to introduce them into you life.</p>
+<p>On he home page you will be greeted with a styled nav bar, which is consistant across all pages, as well as an animated image to draw the users attention to the intro text. This page will give an overview of each topic and more detailed information about how you can begin to introduce them into you life.</p>
 
-![Homepage Screenshot](/docs/homepage-desktop.png)
-
+![Desktop Screenshot](/docs/screenshots/homepage-desktop.png)
 
 <p>The second page will consist of a customer feedback form which will collect specific user entered information. From this data a personalised minfullness plan can be created to meet their needs.</p>
 
-Screenshot of form page
-
 <p>The third page will be a gallery with catagorised videos and pictures from external sources relating to the topics covered on the home page to give people an insight to what is available on the web.</p>
-
-Screenshot of gallery page
-
 
 # 2. User Stories
 I wanted to create a peaceful feel to the pages using a consistant soft color scheme paired with images, text and flow to match. 
@@ -90,6 +84,7 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
     <li><b>Another form page</b> - I would like to add a second form page which would concentrate on gathering suggestions from users for possible content on the site.</li>
     <li><b>Forum</b> - I would like to a forum / chatroom facility where different users could swap ideas and discuss ways to self improve.</li>
     <li><b>Newsletter</b> - I would like to add weekly / monthly newsletter facility where all users who have provided details will receive information about upcoming udates to the site and further information on the topic of mindfulness.</li>
+    <li><b>Screenshots</b> - I'm sure you can see there is a lack of project screenshots in this README.md file. I was unable to get them to work and this proved to be very frustrating. I am aware these are an essential part of any project and will ensure that they are included in all further work I do.</li>
 </ul>
 
 # 5. Typography and Color Scheme
@@ -152,7 +147,7 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 <p>There were a few bugs that came up during the course of this project.</p>
 <ul>
 <li>I had issues with the alignment of the iframes on the gallery page but using the margin and padding properties I was able to fine tune the elements to make them look exactly how I wanted.</li>
-<li>Another bug I struggled with was responsiveness when viewing the site on smaller viewports, creating multiple media queries is something I found difficult and will be something to focus on going forward. I was eventaully able to resolve the issue but spent more time on it then I would have liked.</li>
+<li>Another bug I struggled with was responsiveness when viewing the site on smaller viewports, creating multiple media queries is something I found difficult and will be something to focus on going forward. I was eventaully able to resolve the most of the issues but spent more time on it then I would have liked.</li>
 </ul> 
 
 ## Supported Screens and Browsers
