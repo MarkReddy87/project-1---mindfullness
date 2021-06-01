@@ -39,7 +39,7 @@
 <!--start of the form section with a polite message asking them to let us help-->
     <section class="form-gallery">
         <h2 class="head">Please fill out this short form and let us help you start your journey!</h2>
-        <form action="/submit.html">
+        <form action="/submit.html" method="POST">
             <fieldset>
                 <legend>Your Details</legend>
                 <div>
@@ -84,7 +84,7 @@
                     </datalist>
                 </div>
                 <label for="other" class="block-form">If other please specify</label>
-                <textarea name="other" id="other" cols="40" rows="5"></textarea>
+                <textarea name="other" id="other" cols="50" rows="5"></textarea>
                 <div>
                     <label for="most-important" class="block-form">Which is most important to you?</label>
                     <input id="most-important" list="important-list" name="most-important" required>
@@ -99,7 +99,7 @@
             <fieldset>
                 <legend>Goals</legend>
                 <label for="goals" class="block-form">Share your mindfulness goals here</label>
-                <textarea name="goals" id="goals" cols="40" rows="10"></textarea>
+                <textarea name="goals" id="goals" cols="50" rows="10"></textarea>
             </fieldset>
             <input type="submit" value="Receive Personalised Feedback" class="block-form">
             <input type="reset" value="Reset Form">
