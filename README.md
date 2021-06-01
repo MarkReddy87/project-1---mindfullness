@@ -141,14 +141,12 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 ## Code Validation
 [W3C](https://validator.w3.org/)
 
-<p>I used the W3C code validator to test each of my pages and my stylesheet. I got a lot of errors the first time around. I used many unnecessary line breaks which were replaced with padding, I also had to replace ID selectors which I used multiple times with class selectors and I was missing some closing tags for section elements. Though it was quite jarring at first seeing the amount of mistakes I made, the validator clearly outlined where I went wrong and allowed me to pinpoint the missing / broken code quickly and suggest solutions to the problems.</p>
+<p>I used the W3C code validator to test each of my pages and my stylesheet. I got a lot of errors the first time around. I used many unnecessary line breaks which were replaced with padding, I also had to replace ID selectors which I used multiple times with class selectors and I was missing some closing tags for section elements. Though it was quite jarring at first seeing the amount of mistakes I made, the validator clearly outlined where I went wrong and allowed me to pinpoint the missing / broken code quickly and suggest solutions to the problems. After fixing all the errors I repeated the process for all the files in my project and they all passed with no errors.</p>
 
 * The first step is to copy the entire content of the files you wish to test.
 * Then head over to the W3C validator site.
 * Click the tab that is lebelled "Validate by direct input"
 * Then paste the contents of your file into the text box and click the check button to see your results.
-
-## Test Cases (user story with screenshot)
 
 ## Fixed Bugs
 <p>There were a few bugs that came up during the course of this project.</p>
@@ -163,6 +161,14 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 # 9. Deployment
 ## GitHub Pages
 * [GitHub Pages](https://pages.github.com) - This allowed me to take my project live on the web. I was able to generate a sharable link for anyone to visit. This was essential to submitting my work remotly.
+<ul>
+<li>In the GitHub repository, navigate to the Settings tab</li>
+<li>From the source section drop-down menu, select the Master Branch</li>
+<li>Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.</li>
+</ul>
+
+[The live link can be found here -](https://markreddy87.github.io/project-1---mindfullness/)
+
 ## GitPod
 * [Gitpod](https://gitpod.io) - Gitpod is an open source development platform that allowed me to create, add and edit files which could then be stored in my repository. The built in terminal is a powerful tool that gives you great control over how you track and save any project you create.
 * [GitHub](https://github.com/) - I used GitHub to create a repository to store my project. This allowed me to host my software development, gave me version control options and source code management functionality.
