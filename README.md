@@ -9,7 +9,7 @@ Welcome! [View live Project here](https://markreddy87.github.io/project-1---mind
 
 <p>The home page will give an overview of each topic and more detailed information about how you can begin to introduce them into you life.</p>
 
-Screenshot of home page
+![Homepage Screenshot](/docs/homepage-desktop.png)
 
 
 <p>The second page will consist of a customer feedback form which will collect specific user entered information. From this data a personalised minfullness plan can be created to meet their needs.</p>
@@ -114,7 +114,7 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 </ul>
 
 # 6. Wireframes
-<p></p>
+<p>Using wireframes was a very helpful visual tool for me throughout this project. It is a great starting point for any kind of website design. They give you the ability to put what idea's you have in your head onto the screen quickly and require no actual coding. They allowed me constantly refenence how I wanted the site to look, and gave me the platform I needed to translate the image into the code.</p>
 
 * [Balsamiq](https://balsamiq.com/wireframes/)
 * [Link to project Wireframes](https://balsamiq.cloud/s8tizrb/p2l8zvx)
@@ -122,38 +122,45 @@ I wanted to create a peaceful feel to the pages using a consistant soft color sc
 # 7. Technologies Used
 
 ## Frameworks, Programs and Other Websites Used
-* [Wireframes](https://balsamiq.cloud)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [Gitpod](https://gitpod.io)
-* [GitHub](https://github.com/)
-* [Google Fonts](https://fonts.google.com/specimen/Raleway)
-* [CSS Tricks](https://css-tricks.com/)
-* [RGB Color Picker](https://rgbacolorpicker.com/)
-* [Stack Overflow](https://stackoverflow.com/)
-* [Google Maps](https://www.google.ie/maps)
-* [Youtube](https://www.youtube.com/)
-* [Google](https://www.google.com/)
-* [W3 Schools](https://www.w3schools.com/)
-* [Code Institute](https://codeinstitute.net/)
+* [Font Awesome](https://fontawesome.com) - I used this site for the footer icon links to social media platforms.
+* [Google Fonts](https://fonts.google.com/specimen/Raleway) - I used the google fonts "Lato" and "Raleway" for all pages on this site.
+* [CSS Tricks](https://css-tricks.com/) - I used this site to for various CSS syntax, in particular for the hover animation on the links in the nav bar.
+* [RGB Color Picker](https://rgbacolorpicker.com/) - I used this site to pick most of the colors on the site as I found it to be be easy to use and the rgba format allows for a more varied selection.
+* [Stack Overflow](https://stackoverflow.com/) - I found myself on this site a lot and was able to find answers to a lot of my questions nno matter how simple or complex.
+* [Google Maps](https://www.google.ie/maps) - I used this site to embed all the map locations in the iframes on the gallery page.
+* [Youtube](https://www.youtube.com/) - I used this site to find all the video content on the gallery page as it has endless content to choose from.
+* [Google](https://www.google.com/) - I used this search engin whenever I was stuck and was able to find my reusable resourses along the way.
+* [W3 Schools](https://www.w3schools.com/) - I used this site to find out differnt ways to code my css.
+* [Code Institute](https://codeinstitute.net/) - I used this site to revisit lesson from the past that became relevant again and was essentail in learning the deployment process of my project.
 
 ## Languages Used
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [CSS](https://en.wikipedia.org/wiki/CSS)
 
 # 8. Testing
+## Code Validation
 [W3C](https://validator.w3.org/)
 
 <p>I used the W3C code validator to test each of my pages and my stylesheet. I got a lot of errors the first time around. I used many unnecessary line breaks which were replaced with padding, I also had to replace ID selectors which I used multiple times with class selectors and I was missing some closing tags for section elements. Though it was quite jarring at first seeing the amount of mistakes I made, the validator clearly outlined where I went wrong and allowed me to pinpoint the missing / broken code quickly and suggest solutions to the problems.</p>
 
-## Code Validation
 ## Test Cases (user story with screenshot)
+
 ## Fixed Bugs
+<p>There were a few bugs that came up during the course of this project.</p>
+<ul>
+<li>I had issues with the alignment of the iframes on the gallery page but using the margin and padding properties I was able to fine tune the elements to make them look exactly how I wanted.</li>
+<li>Another bug I struggled with was responsiveness when viewing the site on smaller viewports, creating multiple media queries is something I found difficult and will be something to focus on going forward. I was eventaully able to resolve the issue but spent more time on it then I would have liked.</li>
+</ul> 
+
 ## Supported Screens and Browsers
+
 
 # 9. Deployment
 ## GitHub Pages
+* [GitHub Pages](https://pages.github.com)
 ## GitPod
+* [Gitpod](https://gitpod.io)
+* [GitHub](https://github.com/)
 
 # 10. Credits
 <ul>
