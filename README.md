@@ -9,11 +9,15 @@ Welcome! [View live Project here](https://markreddy87.github.io/project-1---mind
 
 <p>On he home page you will be greeted with a styled nav bar, which is consistant across all pages, as well as an animated image to draw the users attention to the intro text. This page will give an overview of each topic and more detailed information about how you can begin to introduce them into you life.</p>
 
-![Desktop Screenshot](/docs/screenshots/homepage-desktop.png)
+![Homepage Screenshot](docs/screenshots/homepage-desktop.png)
 
 <p>The second page will consist of a customer feedback form which will collect specific user entered information. From this data a personalised minfullness plan can be created to meet their needs.</p>
 
+![Form Screenshot](docs/screenshots/form-desktop.png)
+
 <p>The third page will be a gallery with catagorised videos and pictures from external sources relating to the topics covered on the home page to give people an insight to what is available on the web.</p>
+
+![Gallery Screenshot](docs/screenshots/gallery-desktop.png)
 
 # 2. User Stories
 I wanted to create a peaceful feel to the pages using a consistant soft color scheme paired with images, text and flow to match. 
